@@ -1,0 +1,6 @@
+{
+  "componentsDir": "ui/components",
+  "utilsDir": "internal/utils",
+  "moduleName": "github.com/jkeddari/boilerplate-templui",
+  "jsDir": "assets/js"
+}
